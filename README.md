@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
 
+## Name: Josiah Immanuel 
+## Reg no: 212223043003
+
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
